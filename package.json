@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Get the number of days in a month",
   "license": "MIT",
-  "repository": "sindresorhus/month-days",
+  "repository": "datetime/month-days",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
