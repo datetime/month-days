@@ -1,11 +1,11 @@
-# month-days [![Build Status](https://travis-ci.org/sindresorhus/month-days.svg?branch=master)](https://travis-ci.org/sindresorhus/month-days)
+# month-days [![Build Status](https://travis-ci.org/datetime/month-days.svg?branch=master)](https://travis-ci.org/datetime/month-days)
 
 > Get the number of days in a month
 
 
 ## Install
 
-```sh
+```
 $ npm install --save month-days
 ```
 
